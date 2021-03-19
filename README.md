@@ -3,3 +3,4 @@
 * svm.csv
 * KNN.csv
 * max_likehood.csv
+В папке "data" расположены обучающие и тестовые данные
