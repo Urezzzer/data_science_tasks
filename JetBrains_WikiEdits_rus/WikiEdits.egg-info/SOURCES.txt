@@ -1,0 +1,13 @@
+README.md
+setup.py
+WikiEdits.egg-info/PKG-INFO
+WikiEdits.egg-info/SOURCES.txt
+WikiEdits.egg-info/dependency_links.txt
+WikiEdits.egg-info/top_level.txt
+bin/txt_edits.py
+bin/wiki_edits.py
+wikiedits/__init__.py
+wikiedits/diff_finder.py
+wikiedits/edit_extractor.py
+wikiedits/edit_filter.py
+wikiedits/wiki_edit_extractor.py
