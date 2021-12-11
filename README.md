@@ -6,3 +6,5 @@
 * RuCode 4.0 - 6th place
 * Sber Internship - 3 month internship
 * Yandex Cup ML/Data Analysis - Took part of it
+
+* Did not save my solutions (Цифровой прорыв - 3rd place, Вездекод - 2nd place)
