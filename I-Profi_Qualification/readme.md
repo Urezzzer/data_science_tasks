@@ -14,6 +14,6 @@ I really like image classification, I have good pipeline to work with this, so I
 * [Sentiment analysis of game reviews](./games/choiseofthegame.ipynb) - 8/10
 
 I used pretrained DistilBERT on SST-2-English. I didn't finetune the model. Would better to use a [CLF]-Layer, learn on the trainset and classify after, I have such pipeline.
-* Optimal sequence of acts - 9/10
+* [Optimal sequence of acts](./switching_with_reinforcement_bachelors/switching_with_reinforcement_bachelors.ipynb) - 9/10
 
 It is my debute in reinforcement learning. I created Q-Learning algorithm myself. It was the most interesting task of the qualification.
