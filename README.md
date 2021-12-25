@@ -2,12 +2,13 @@
 
 --- 
 #### The newest
+* I-PROFI Qualification - Done
 * AI Vladivostok Week - the 1th place
-* Championship "Leaders of Digital" - the 2nd place
-* JetBrains Internship - nothing, but it was an interesting task
 * RuCode 4.0 AI 2021 - the 6th place
+* Championship "Leaders of Digital" - the 2nd place
 * Sber Internship - 3 months of the internship
-* Yandex Cup ML/Data Analysis - Participant
+* JetBrains Internship - nothing, but it was an interesting task
+* Yandex Cup ML/Data Analysis - Participation
 #### The oldest
 --- 
 
