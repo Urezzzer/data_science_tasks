@@ -8,7 +8,7 @@ It is very typical task, so I was not interested in this and used the easiest pi
 * Weather predicting - 8.83/10
 
 I solved this task as classification task not using preferred methods (Gradient boosting and etc)
-* Butterflies Classification - 8.96/10
+* (Butterflies Classification)[/butterflies/butterflies.ipynb] - 8.96/10
 
 I really like image classification, I have good pipeline to work with this, so I just used it to solve this task.
 * Sentiment analysis of game reviews - 8/10
