@@ -5,7 +5,7 @@ So I spent 1 evening to figure out tasks. My solutions is not the best at all an
 * Classification of synthetic data - 6.51/10
 
 It is very typical task, so I was not interested in this and used the easiest pipeline.
-* [Weather predicting](/weather%20predicting/weather_predicting.ipynb) - 8.83/10
+* [Weather predicting](/weather predicting/weather_predicting.ipynb) - 8.83/10
 
 I solved this task as classification task not using preferred methods (Gradient boosting and etc)
 * [Butterflies Classification](./butterflies/butterflies.ipynb) - 8.96/10
