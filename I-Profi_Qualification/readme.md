@@ -2,7 +2,7 @@ There are five different data science tasks that were solved by me.
 My goal was to get enough score to bring myself to the final not spending very much time.
 So I spent 1 evening to figure out tasks. My solutions is not the best at all and can be improved. But I have achieved my goal!
 
-* Classification of synthetic data - 6.51/10
+* [Classification of synthetic data](./synthetic_classification/synthetic.ipynb) - 6.51/10
 
 It is very typical task, so I was not interested in this and used the easiest pipeline.
 * [Weather predicting](./weather%20predicting/weather_predicting.ipynb) - 8.83/10
